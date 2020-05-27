@@ -1,0 +1,7 @@
+C:\Users\djlan\source\repos\ProyectoArboles\ProyectoArboles\obj\Debug\ProyectoArboles.csprojAssemblyReference.cache
+C:\Users\djlan\source\repos\ProyectoArboles\ProyectoArboles\obj\Debug\ProyectoArboles.csproj.CoreCompileInputs.cache
+C:\Users\djlan\source\repos\ProyectoArboles\ProyectoArboles\bin\Debug\ProyectoArboles.exe.config
+C:\Users\djlan\source\repos\ProyectoArboles\ProyectoArboles\bin\Debug\ProyectoArboles.exe
+C:\Users\djlan\source\repos\ProyectoArboles\ProyectoArboles\bin\Debug\ProyectoArboles.pdb
+C:\Users\djlan\source\repos\ProyectoArboles\ProyectoArboles\obj\Debug\ProyectoArboles.exe
+C:\Users\djlan\source\repos\ProyectoArboles\ProyectoArboles\obj\Debug\ProyectoArboles.pdb
